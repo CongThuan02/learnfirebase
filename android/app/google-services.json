@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036090569719",
+    "project_id": "clonefluttercode",
+    "storage_bucket": "clonefluttercode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036090569719:android:0a5eb9412b80944b6eb4f2",
+        "android_client_info": {
+          "package_name": "com.example.codeflutterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8QYYb-agPh-hMTrPD1-sLEiFERLdDMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036090569719:android:26f1a298ef88b2c96eb4f2",
+        "android_client_info": {
+          "package_name": "com.example.learnfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8QYYb-agPh-hMTrPD1-sLEiFERLdDMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
